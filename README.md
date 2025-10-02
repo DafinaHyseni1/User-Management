@@ -25,7 +25,7 @@ Update or delete users locally using Redux.
 Sort by Name, Email, or Company ascending/descending.
 
 
-How to Run
+# How to Run
 cd user-management-app
 npm install
 npm run dev
