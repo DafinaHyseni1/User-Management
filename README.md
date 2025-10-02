@@ -25,12 +25,12 @@ Update or delete users locally using Redux.
 Sort by Name, Email, or Company ascending/descending.
 
 
-# How to Run
+How to Run
 cd user-management-app
 npm install
 npm run dev
 
 
-# Frontend runs at: http://localhost:5173
+Frontend runs at: http://localhost:5173
 
 This project shows how React, Redux, and Ant Design can be combined to build a real-world user management app. It’s fully interactive, maintains clean code, and demonstrates practical state management and responsive UI design.
