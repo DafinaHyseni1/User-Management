@@ -12,16 +12,16 @@ This is a small React project I built to manage users in a clean and organized w
 
 
 # Features
-### List Users
+* List Users
 Fetch and display users in a table with name, email, and company.
-### Search
+* Search
 Quickly find a user by name or email.
-### User Details
+* User Details
 Click a user to see address, phone, website, and company info.
-### Add, Update & Delete
+* Add, Update & Delete
 Add new users (name and email required).
 Update or delete users locally using Redux.
-### Sorting
+* Sorting
 Sort by Name, Email, or Company ascending/descending.
 
 
